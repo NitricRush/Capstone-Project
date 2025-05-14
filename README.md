@@ -29,7 +29,7 @@ This capstone project simulates the role of an IT consultant tasked with designi
 
 | File | Description |
 |------|-------------|
-| [`CapstonePresentation.pptx`](./CapstonePresentation.pptx) | Capstone PowerPoint presentation outlining the design |
+| [`Capstone_Presentation.pptx`](./Capstone_Presentation.pptx) | Capstone PowerPoint presentation outlining the design |
 
 
 ---
